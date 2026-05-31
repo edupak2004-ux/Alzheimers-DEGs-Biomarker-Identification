@@ -20,7 +20,7 @@ This project aims to identify Differentially Expressed Genes (DEGs) and potentia
 - Scikit-learn
 - Matplotlib
 - Seaborn
-
+- ShinnyGO tool
 ## Results
 The study identified significant DEGs and key biomarkers associated with Alzheimer's Disease.
 
